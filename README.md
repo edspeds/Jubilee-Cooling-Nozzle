@@ -1,0 +1,1 @@
+Cooling Nozzle for the Jubilee Printer.  Heater block will need to be rotated 90 degrees and ooze wiper bar will need to be lowered around a cm for this to fit.  I use gluedots to hold the fan in place or can use super glue as well.
